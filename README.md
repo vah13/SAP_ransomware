@@ -1,4 +1,4 @@
-# SAP_ransomware
+# SAP ransomware sample
 Simple remote command execution exploit code for SAP GUI
 First of all need to create a malicious ABAP program on SAP NetWeaver AS ABAP
 
