@@ -41,4 +41,4 @@ CALL FUNCTION 'WS_EXECUTE'
                   OTHERS                   = 6.
   ```
   
-  
+  using this vulnerability developers or sap administrator can execute any command on users computers and infected them
